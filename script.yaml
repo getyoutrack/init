@@ -34,7 +34,7 @@
       _class: 'contact:class:PersonAccount'
       resultVariable: userAccount
       data:
-        email: 'info@hardcoreeng.com'
+        email: 'info@digitrans.org'
         role: 'OWNER'
         space: 'core:space:Model'
         person: ${userPerson}
@@ -521,7 +521,7 @@
       _class: 'contact:class:PersonAccount'
       resultVariable: userAccount
       data:
-        email: 'info@hardcoreeng.com'
+        email: 'info@digitrans.org'
         role: 'OWNER'
         space: 'core:space:Model'
         person: ${userPerson}
@@ -560,7 +560,7 @@
       _class: 'contact:class:PersonAccount'
       resultVariable: userAccount
       data:
-        email: 'info@hardcoreeng.com'
+        email: 'info@digitrans.org'
         role: 'OWNER'
         space: 'core:space:Model'
         person: ${userPerson}
